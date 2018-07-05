@@ -4,7 +4,7 @@
  * 创建FatherClsss
  * 创建ChildClsss
  */
-package cn.txt.oo;
+package oo;
 
 public class TestSuper2 {
     public static void main(String[] args) {

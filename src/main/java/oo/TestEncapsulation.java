@@ -1,7 +1,7 @@
 /**
  * 测试封装
  */
-package cn.txt.oo;
+package oo;
 
 public class TestEncapsulation {
     public static void main(String[] args) {

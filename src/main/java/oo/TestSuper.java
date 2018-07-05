@@ -1,7 +1,7 @@
 /**
  * Super(); 调用父类对象的普通方法或成员变量 例子
  */
-package cn.txt.oo;
+package oo;
 
 public class TestSuper {
     public static void main(String[] args) {

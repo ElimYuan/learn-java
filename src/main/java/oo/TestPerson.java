@@ -2,7 +2,7 @@
  * 测试封装 Set,get 方法
  * 由于privage 属性，私有化，需要set, get方法
  */
-package cn.txt.oo;
+package oo;
 
 public class TestPerson {
     private int id;

@@ -1,4 +1,4 @@
-package cn.txt.oo;
+package oo;
 
 public class TestEquals {
 

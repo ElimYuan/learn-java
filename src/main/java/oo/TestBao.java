@@ -1,4 +1,4 @@
-package cn.txt.oo;
+package oo;
 
 /**
  * 包机制是java中管理类的重要手段。
